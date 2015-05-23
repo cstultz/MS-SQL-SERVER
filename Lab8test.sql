@@ -1,13 +1,12 @@
 /*
 ********************************************
-  CIS276 @PCC on on Oracle10g with SQL Developer
-  using SQL Developer 4.0.3.16
-  Lab7test.sql
-  2014.11.18 maintenance history
+Oracle10g with SQL Developer
+using SQL Developer 4.0.3.16
+Lab7test.sql
+2014.11.18 maintenance history
 ********************************************
 */
 
--- Lab 7 Assignment 
 -- Chris Stultz
 -- 15 Tests for Lab8 to test entire code.
 

@@ -1,25 +1,8 @@
 /*
 ********************************************************************************
-CIS276 @PCC using SQL Server 2012 with Management Studio
-THIS IS A TEMPLATE - ALWAYS FOLLOW THE LAB ASSIGNMENT INSTRUCTIONS FIRST
-20141123 Vicki Jonathan, Instructor
---------------------------------------------------------------------------------
-CREATE procedures and triggers must be the first command in a batch.
+SQL Server 2012 with Management Studio
 ********************************************************************************
 */
-PRINT '
---------------------------------------------------------------------------------
-CERTIFICATION:
-I, << Christopher C. Stultz >>, certify that the following is original code written 
-by myself without unauthorized assistance. I agree to abide by class restrictions 
-and understand that if I have violated them, I may receive reduced credit 
-(or no credit) for this assignment.
---------------------------------------------------------------------------------
-';
-GO
-
--- specify database to be used; THIS WILL BE YOUR DATABASE
-USE s276CStultz
 GO
 
 PRINT '

@@ -1,13 +1,10 @@
 /*
 ********************************************************************************
 SalesDB Build
-CIS276 @PCC on MS SQL Server 2012
-20131125 Vicki Jonathan, Instructor
+MS SQL Server 2012
 DROP, CREATE, INSERT
 ********************************************************************************
 */
--- specify database to be used
-USE s276CStultz
 GO
 
 PRINT '
